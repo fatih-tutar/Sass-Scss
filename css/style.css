@@ -1,4 +1,10 @@
-* {
-  background-color: red; }
+div.demo {
+  font: 100% Helvetica, sans-serif;
+  color: darkkhaki;
+  font-size: 24px; }
 
-/*# sourceMappingURL=style.css.map */
+.test {
+  font-size: 24px;
+  background-color: darkkhaki;
+  border: 2px solid green;
+  border-radius: 3px; }

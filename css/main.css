@@ -1,4 +1,12 @@
-* {
-  background-color: red; }
+body {
+  color: red;
+  font-size: 24px; }
 
-/*# sourceMappingURL=main.css.map */
+.demo {
+  font: 100% Helvetica, sans-serif;
+  color: darkkhaki;
+  color: darkolivegreen; }
+
+p.test {
+  font-size: 24px;
+  background-color: darkkhaki; }
